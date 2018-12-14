@@ -7,8 +7,8 @@ locale:       "en"
 
 # About/contact
 author:
-  name:       Author name
-  url:        http://yourhomepage.com 
+  name:       Nigel Anthony Smith
+  url:        https://nigel-smith-developer.co.uk 
 
 # Gems
 gems:
